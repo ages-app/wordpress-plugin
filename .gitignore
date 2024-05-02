@@ -1,0 +1,6 @@
+.idea/
+.DS_*
+.vscode
+.phpcs.cache
+*.swp
+*.swo

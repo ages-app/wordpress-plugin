@@ -1,0 +1,80 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ages WordPress Plugin 1.0.0\n"
+"POT-Creation-Date: 2024-05-02 13:06+0800\n"
+"PO-Revision-Date: 2024-05-02 13:08+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: ages-wp.php:88 ages-wp.php:92
+msgid " could not be activated. "
+msgstr ""
+
+#: includes/Admin/Settings.php:56
+msgid "Chat Widget Settings"
+msgstr "Paramètres du widget de chat"
+
+#: includes/Admin/Settings.php:63
+msgid "Test Mode"
+msgstr "Mode test"
+
+#: includes/Admin/Settings.php:72
+msgid "Company Hash ID"
+msgstr "ID de hachage de l'entreprise"
+
+#: includes/Admin/Settings.php:82
+msgid "Enabled"
+msgstr "Activé"
+
+#: includes/Admin/Settings.php:107 includes/Admin/Settings.php:154
+msgid "No"
+msgstr "Non"
+
+#: includes/Admin/Settings.php:110 includes/Admin/Settings.php:157
+msgid "Yes"
+msgstr "Oui"
+
+#: includes/Admin/Settings.php:113
+msgid ""
+"If <strong>enabled</strong>, loads the \"staging version\" of the widget "
+"loader. If <strong>disabled</strong>, loads the \"production version\" of "
+"the widget loader."
+msgstr ""
+"Si elle est <strong>activée</strong>, elle charge la \"version d'essai\" du "
+"chargeur de widgets. S'il est <strong>désactivé</strong>, il charge la "
+"\"version de production\" du chargeur de widgets."
+
+#: includes/Admin/Settings.php:134
+msgid ""
+"Your company hash ID. <a href=\"https://www.ages.app/\" "
+"target=\"_blank\">Click here</a> to generate one."
+msgstr ""
+"L'identifiant de votre entreprise. <a href=\"https://www.ages.app/\" "
+"target=\"_blank\">Cliquez ici</a> pour en générer un."
+
+#: includes/Admin/Settings.php:160
+msgid ""
+"If <strong>enabled</strong>, the chat widget will show on the front website."
+msgstr ""
+"Si <strong>cette option est activée</strong>, le widget de chat s'affichera "
+"sur la page d'accueil du site web."
+
+#: includes/Admin/Settings.php:174 includes/Admin/Settings.php:175
+msgid "Ages"
+msgstr "Ages"
+
+#: includes/Admin/Settings.php:201
+msgid "Settings Saved"
+msgstr "Paramètres sauvegardés"
+
+#: includes/Admin/Settings.php:216
+msgid "Save Settings"
+msgstr "Enregistrer les paramètres"

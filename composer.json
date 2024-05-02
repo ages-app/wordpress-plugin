@@ -1,0 +1,24 @@
+{
+    "name": "ages/wordpress-plugin",
+    "description": "A plugin for integrating the Ages Chat Widget app with WooCommerce plugin.",
+    "scripts": {
+        "phpcs": "phpcs --standard=./phpcs.xml",
+        "phpcbf": "phpcbf --standard=./phpcs.xml"
+    },
+    "autoload": {
+        "psr-4": {
+            "Ages\\WP\\": "includes/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ages Developers",
+            "homepage": "https://www.ages.app/"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "config": {
+        "optimize-autoloader": true
+    }
+}
